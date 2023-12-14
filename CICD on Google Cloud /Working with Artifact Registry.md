@@ -1,5 +1,5 @@
 ```
-export ZONE=europe-west4-b
+export ZONE=[ZONE]
 
 curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Working%20with%20Artifact%20Registry/quicklabgsp1076.sh
 
