@@ -1,4 +1,4 @@
-```
+```md
 gcloud services enable aiplatform.googleapis.com
 
 MODEL_ID="text-bison"
